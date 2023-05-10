@@ -8,6 +8,9 @@ I made this repository to hold notes, commands and terms about flutter.
 # create flutter project:
 flutter create <projectname>
 
+# go to project folder:
+cd ./geolocation
+
 # check flutter installation:
 flutter doctor -v
 
