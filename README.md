@@ -19,4 +19,10 @@ flutter emulators
 
 # launch emulator:
 flutter emulators --launch <emulatorname>
+
+# hot reload (while project's running):
+r
+
+# hot restart (while project's running):
+R
 ```
